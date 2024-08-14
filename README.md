@@ -1,6 +1,15 @@
 # Hierarchical Clustering Analysis Based on Anodic Limits and Solvation Free Energy of Lithium Salts
 
 ### Description
+Scripts from the manuscript S. Chen, et al. Foreign Li-ion supply reshapes Li-oriented material discovery and lifetime limit of batteries.
+J.W. and Y.W. calculated the molecular descriptor and conceived the machine learning workflow.
+
+·Script for the generation of the machine learning.
+
+·"Cluster_by_Gsol_and_Val.ipynb" to reproduce the data.
+
+·Data files to draw the hierarchical cluster dendrograms.
+
 This program performs a hierarchical clustering analysis predicated on the anodic limits and solvation free energy of lithium salts. The data for the anodic limits and solvation free energy are obtained through quantum chemical computations.
 
 ### Usage

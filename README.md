@@ -2,6 +2,7 @@
 
 ### Description
 Scripts from the manuscript S. Chen, et al. Foreign Li-ion supply reshapes Li-oriented material discovery and lifetime limit of batteries.
+
 J.W. and Y.W. calculated the molecular descriptor and conceived the machine learning workflow.
 
 ·Script for the generation of the machine learning.

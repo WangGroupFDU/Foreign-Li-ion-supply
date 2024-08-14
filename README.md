@@ -6,7 +6,7 @@ Scripts from the manuscript S. Chen, et al. Foreign Li-ion supply reshapes Li-or
 J.W. and Y.W. calculated the molecular descriptor and conceived the machine learning workflow.
 
 1. Input Folder: "Data" ; 
-2. Main code: "cluster_by_sol_vol.ipynb"; 
+2. Main code: "Cluster_by_Gsol_and_Val.ipynb"; 
 3. Output folder: "Figure"
 
 This program performs a hierarchical clustering analysis predicated on the anodic limits and solvation free energy of lithium salts. The data for the anodic limits and solvation free energy are obtained through quantum chemical computations.
